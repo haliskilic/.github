@@ -15,7 +15,7 @@ Thanks for your interest in contributing! Bug reports, fixes, documentation and 
    the commercial editions. Pull requests can only be merged after the CLA is signed.
 4. **Security issues:** please do not open a public issue — email <mail@haliskilic.com.tr>.
 
-If you'd like to support the projects in another way, see [GitHub Sponsors](https://github.com/sponsors/haliskilic) ❤️
+If you'd like to support the projects in another way, see [GitHub Sponsors](https://github.com/sponsors/haliskilic) ❤️ or [Buy Me a Coffee](https://buymeacoffee.com/haliskilic) ☕
 
 ## Türkçe
 
@@ -30,4 +30,4 @@ Katkı vermek istediğin için teşekkürler! Hata bildirimi, düzeltme, doküma
    kullanabilmemi sağlar. CLA imzalanmadan pull request birleştirilemez.
 4. **Güvenlik sorunları:** lütfen herkese açık issue açma — <mail@haliskilic.com.tr> adresine e-posta gönder.
 
-Projelere başka bir şekilde destek olmak istersen: [GitHub Sponsors](https://github.com/sponsors/haliskilic) ❤️
+Projelere başka bir şekilde destek olmak istersen: [GitHub Sponsors](https://github.com/sponsors/haliskilic) ❤️ veya [Buy Me a Coffee](https://buymeacoffee.com/haliskilic) ☕
